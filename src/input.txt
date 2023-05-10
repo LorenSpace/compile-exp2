@@ -1,0 +1,5 @@
+P——>Pa|b
+V——>Eabc|bc|Vabc|c
+E——>E+T|T
+T——>T*F|F
+F——>(E)|i
